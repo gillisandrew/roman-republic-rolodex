@@ -1,3 +1,5 @@
+> **Archived.** This prototype was superseded by [linked-past](https://github.com/gillisandrew/linked-past) (MCP server across eight ancient-world datasets) and [dprr-mcp](https://github.com/gillisandrew/dprr-mcp) (DPRR-only MCP server). It is kept for reference only.
+
 # Roman Republic Rolodex
 
 ABOUTME: A conversational interface for querying the Digital Prosopography of the Roman Republic and related ancient world datasets.
@@ -73,9 +75,7 @@ src/
 
 This project follows a structured 18-step implementation plan. See `plan.md` for detailed development steps and `todo.md` for current progress.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
